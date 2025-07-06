@@ -47,34 +47,15 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAY6HNn7LqCuu4LteN-U8NT1QjxDbKpRIY',
-    appId: '1:347700769995:web:baf5244166d970cdb6d74e',
-    messagingSenderId: '347700769995',
-    projectId: 'getsayari',
-    authDomain: 'getsayari.firebaseapp.com',
-    databaseURL: 'https://getsayari-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'getsayari.appspot.com',
-    measurementId: 'G-2TBDS6CGKT',
+    //
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA7bkTYVF0ND6V3DoPf6i45EawWqaNgLD8',
-    appId: '1:347700769995:android:358aafdc98433bdfb6d74e',
-    messagingSenderId: '347700769995',
-    projectId: 'getsayari',
-    databaseURL: 'https://getsayari-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'getsayari.appspot.com',
+    //
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBxKPQT3uyJh2OOorcX4RRdQR0Ly-CXWFA',
-    appId: '1:347700769995:ios:28c1e86ca628e4cab6d74e',
-    messagingSenderId: '347700769995',
-    projectId: 'getsayari',
-    databaseURL: 'https://getsayari-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'getsayari.appspot.com',
-    iosClientId: '347700769995-c3ivld254rdt6sr5dt0ji1agsst6boga.apps.googleusercontent.com',
-    iosBundleId: 'com.sayari.app',
+    //
   );
 
 }
