@@ -44,7 +44,7 @@ The `apps`folder contains your flutter projects(and other apps as well).
 #### Clone the github repository
 In the `apps` folder...
 
-- git clone https://github.com/duncanmwanik/Sayari.git branch:main
+- git clone https://github.com/duncanmwanik/Sayari-EXP.git branch:main
 
 ## Codebase
 
